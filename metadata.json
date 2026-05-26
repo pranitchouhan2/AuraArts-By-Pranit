@@ -1,0 +1,6 @@
+{
+  "name": "Aura Arts",
+  "description": "Premium modern artistic experience for Shiva art, mandala art, sketches, and bespoke handmade crafts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
